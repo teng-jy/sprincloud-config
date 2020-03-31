@@ -1,2 +1,2 @@
-server:
-  port: 9527
+config:
+  info : "master branch,spring-cloud-config/config-dev v-1"
